@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBiggestAndSmallest", "ConsoleApp1\TheBiggestAndSmallest.csproj", "{4D1214FC-9E0D-4C26-9D70-9F65384AF069}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBiggestAndSmallest", "TheBiggestAndSmallest\TheBiggestAndSmallest.csproj", "{4D1214FC-9E0D-4C26-9D70-9F65384AF069}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CB5FB717-F3D2-4003-8B32-242800505990}
+		SolutionGuid = {6DA474CC-644E-4006-8991-8A08EB86FF5D}
 	EndGlobalSection
 EndGlobal
